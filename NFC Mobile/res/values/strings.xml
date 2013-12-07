@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">票卷服務模組</string>
+    <string name="btnAcquireTicket">取得票卷</string>
+    <string name="btnVerifyTicket">驗證票卷</string>
+    
+</resources>

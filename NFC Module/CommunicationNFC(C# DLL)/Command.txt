@@ -1,0 +1,3 @@
+指令：csc /target:library CommunicationNFC.cs
+
+說明：csc執行檔在C:\Windows\Microsoft.NET\Framework\v4.0.xxxxx中，記得要先設定環境變數Path。

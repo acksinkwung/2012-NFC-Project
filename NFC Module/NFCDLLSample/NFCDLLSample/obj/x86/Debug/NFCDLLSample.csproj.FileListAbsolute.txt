@@ -1,0 +1,41 @@
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\bin\Debug\NFCDLLSample.exe
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\bin\Debug\NFCDLLSample.pdb
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\bin\Debug\CommunicationNFC.dll
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.Form1.resources
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.Properties.Resources.resources
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.exe
+F:\國科會\NFCDLLSample\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.pdb
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.exe
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.pdb
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\bin\Debug\NFCDLLSample.exe
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\bin\Debug\NFCDLLSample.pdb
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\bin\Debug\CommunicationNFC.dll
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.Form1.resources
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.Properties.Resources.resources
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\國科會\NEW\CommunicationNFC(C# DLL)\NFCDLLSample\NFCDLLSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\obj\x86\Debug\NFCDLLSample.exe
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\obj\x86\Debug\NFCDLLSample.pdb
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\bin\Debug\NFCDLLSample.exe
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\bin\Debug\NFCDLLSample.pdb
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\bin\Debug\CommunicationNFC.dll
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\obj\x86\Debug\NFCDLLSample.MainForm.resources
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\obj\x86\Debug\NFCDLLSample.Properties.Resources.resources
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\CommunicationNFC(C# DLL)\NFCDLLSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.exe
+C:\Users\Sinkwung\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.pdb
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.exe
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.pdb
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\bin\Debug\NFCDLLSample.exe
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\bin\Debug\NFCDLLSample.pdb
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.MainForm.resources
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\NFCDLLSample.Properties.Resources.resources
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\attx\Dropbox\NFC\NFC Module\NFCDLLSample\NFCDLLSample\obj\x86\Debug\GenerateResource.write.1.tlog
